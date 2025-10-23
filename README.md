@@ -270,7 +270,7 @@ O **GitFluence** pode ser usado como ferramenta de apoio para gerar esses comand
 
 ---
 
-## 3. Integração e Colaboração (GitHub)
+## 19. Integração e Colaboração (GitHub)
 
 Essa parte trata de como **compartilhar e integrar seu trabalho com outras pessoas** através do GitHub, especialmente quando o projeto é colaborativo.
 
