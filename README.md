@@ -268,7 +268,7 @@ O **GitFluence** pode ser usado como ferramenta de apoio para gerar esses comand
 
 <p align="center">
   <br>
-    <img scr="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Imagem GitInfluence" />
+    ![](https://s10.aconvert.com/convert/p3r68-cdx67/acs5c-gmavy.jpg "imagem")
   <br>
 </p>
 
