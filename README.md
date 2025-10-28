@@ -267,9 +267,9 @@ git branch -a
 O **GitFluence** pode ser usado como ferramenta de apoio para gerar esses comandos automaticamente, facilitando o aprendizado e o uso do Git.
 
 <p align="center">
-<br>
-<img scr="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Imagem GitInfluence" />
-<br>
+  <br>
+    <img scr="https://cdn-icons-png.flaticon.com/512/5711/5711569.png" alt="Imagem GitInfluence" />
+  <br>
 </p>
 
 ---
